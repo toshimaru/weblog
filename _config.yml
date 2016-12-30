@@ -8,6 +8,8 @@ permalink: "/:year/:i_month/:i_day/:title/"
 markdown: kramdown
 category_dir: ""
 category_title_prefix: ""
+twitter:
+  username: rails
 gems:
   - jemoji
   - jekyll-redirect-from
